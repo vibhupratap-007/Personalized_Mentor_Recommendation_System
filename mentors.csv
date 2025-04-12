@@ -1,0 +1,16 @@
+mentor_id,name,preferred_subjects,target_colleges,prep_level,learning_style
+M101,Aarav Sharma,Legal Reasoning,NLU Delhi,Advanced,Visual
+M102,Isha Gupta,Logical Reasoning,NALSAR,Intermediate,Auditory
+M103,Rohan Mehta,English,NLSIU,Beginner,Reading/Writing
+M104,Simran Kaur,Current Affairs,NLU Jodhpur,Intermediate,Kinesthetic
+M105,Kabir Verma,Legal Reasoning,NLU Bangalore,Advanced,Visual
+M106,Mehak Jain,English,NLU Patna,Beginner,Auditory
+M107,Tanvi Sharma,Logical Reasoning,NLU Lucknow,Advanced,Visual
+M108,Yash Agarwal,Current Affairs,NALSAR,Intermediate,Kinesthetic
+M109,Nikita Bansal,Legal Reasoning,NLU Mumbai,Advanced,Reading/Writing
+M110,Rajeev Khanna,English,NLU Kolkata,Beginner,Auditory
+M111,Divya Rathi,Logical Reasoning,NLU Bhopal,Intermediate,Visual
+M112,Sahil Choudhary,Current Affairs,NLU Raipur,Beginner,Visual
+M113,Pooja Yadav,English,NLU Cuttack,Advanced,Reading/Writing
+M114,Aryan Singh,Legal Reasoning,NLU Ranchi,Intermediate,Visual
+M115,Shivani Mittal,Logical Reasoning,NLU Trichy,Advanced,Kinesthetic
